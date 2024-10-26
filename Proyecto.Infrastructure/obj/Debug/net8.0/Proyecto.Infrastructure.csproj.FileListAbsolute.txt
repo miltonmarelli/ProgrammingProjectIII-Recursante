@@ -1,0 +1,4 @@
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infrastructure.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infrastructure.csproj.CoreCompileInputs.cache

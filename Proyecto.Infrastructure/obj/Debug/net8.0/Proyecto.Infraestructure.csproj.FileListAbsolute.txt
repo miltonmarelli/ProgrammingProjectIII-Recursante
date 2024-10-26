@@ -1,0 +1,99 @@
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Infraestructure.deps.json
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Infraestructure.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Infraestructure.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Infraestructure.pdb
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Application.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Domain.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Application.pdb
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Domain.pdb
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.87E2F601.Up2Date
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Infrastructure\obj\Debug\net8.0\refint\Proyecto.Infraestructure.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.pdb
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Infrastructure\obj\Debug\net8.0\ref\Proyecto.Infraestructure.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Infraestructure.deps.json
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Infraestructure.runtimeconfig.json
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Infraestructure.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Infraestructure.pdb
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Application.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Domain.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Application.pdb
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Domain.pdb
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.AssemblyInfo.cs
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.sourcelink.json
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.87E2F601.Up2Date
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\refint\Proyecto.Infraestructure.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.pdb
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.genruntimeconfig.cache
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\ref\Proyecto.Infraestructure.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Infraestructure.deps.json
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Infraestructure.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Infraestructure.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Infraestructure.pdb
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Application.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Domain.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Application.pdb
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Domain.pdb
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.sourcelink.json
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.87E2F601.Up2Date
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\refint\Proyecto.Infraestructure.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.pdb
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\ref\Proyecto.Infraestructure.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Infraestructure.deps.json
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Infraestructure.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Infraestructure.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Infraestructure.pdb
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Application.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Domain.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Application.pdb
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Domain.pdb
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.sourcelink.json
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.87E2F601.Up2Date
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\refint\Proyecto.Infraestructure.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.pdb
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Infrastructure\obj\Debug\net8.0\ref\Proyecto.Infraestructure.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Infraestructure.deps.json
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Infraestructure.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Infraestructure.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Infraestructure.pdb
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Application.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Domain.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Application.pdb
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Infrastructure\bin\Debug\net8.0\Proyecto.Domain.pdb
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.sourcelink.json
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.87E2F601.Up2Date
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Infrastructure\obj\Debug\net8.0\refint\Proyecto.Infraestructure.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.pdb
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Infrastructure\obj\Debug\net8.0\Proyecto.Infraestructure.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Infrastructure\obj\Debug\net8.0\ref\Proyecto.Infraestructure.dll

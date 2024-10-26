@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Proyecto.Application/1.0.0": {
+        "dependencies": {
+          "Proyecto.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Proyecto.Application.dll": {}
+        }
+      },
+      "Proyecto.Domain/1.0.0": {
+        "runtime": {
+          "Proyecto.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proyecto.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Proyecto.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

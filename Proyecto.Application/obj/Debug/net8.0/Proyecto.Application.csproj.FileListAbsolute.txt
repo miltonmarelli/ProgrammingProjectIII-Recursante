@@ -1,0 +1,79 @@
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Application\bin\Debug\net8.0\Proyecto.Application.deps.json
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Application\bin\Debug\net8.0\Proyecto.Application.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Application\bin\Debug\net8.0\Proyecto.Application.pdb
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Application\bin\Debug\net8.0\Proyecto.Domain.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Application\bin\Debug\net8.0\Proyecto.Domain.pdb
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Application\obj\Debug\net8.0\Proyecto.6C2680D2.Up2Date
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Application\obj\Debug\net8.0\refint\Proyecto.Application.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.pdb
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\Proyecto.Application\obj\Debug\net8.0\ref\Proyecto.Application.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Application\bin\Debug\net8.0\Proyecto.Application.deps.json
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Application\bin\Debug\net8.0\Proyecto.Application.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Application\bin\Debug\net8.0\Proyecto.Application.pdb
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Application\bin\Debug\net8.0\Proyecto.Domain.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Application\bin\Debug\net8.0\Proyecto.Domain.pdb
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.csproj.AssemblyReference.cache
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.AssemblyInfoInputs.cache
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.AssemblyInfo.cs
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.csproj.CoreCompileInputs.cache
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.sourcelink.json
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\Proyecto.6C2680D2.Up2Date
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\refint\Proyecto.Application.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.pdb
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\ref\Proyecto.Application.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Application\bin\Debug\net8.0\Proyecto.Application.deps.json
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Application\bin\Debug\net8.0\Proyecto.Application.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Application\bin\Debug\net8.0\Proyecto.Application.pdb
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Application\bin\Debug\net8.0\Proyecto.Domain.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Application\bin\Debug\net8.0\Proyecto.Domain.pdb
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.sourcelink.json
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\Proyecto.6C2680D2.Up2Date
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\refint\Proyecto.Application.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.pdb
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\ref\Proyecto.Application.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Application\bin\Debug\net8.0\Proyecto.Application.deps.json
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Application\bin\Debug\net8.0\Proyecto.Application.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Application\bin\Debug\net8.0\Proyecto.Application.pdb
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Application\bin\Debug\net8.0\Proyecto.Domain.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Application\bin\Debug\net8.0\Proyecto.Domain.pdb
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.sourcelink.json
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\Proyecto.6C2680D2.Up2Date
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\refint\Proyecto.Application.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.pdb
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\Proyecto.Application\obj\Debug\net8.0\ref\Proyecto.Application.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Application\bin\Debug\net8.0\Proyecto.Application.deps.json
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Application\bin\Debug\net8.0\Proyecto.Application.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Application\bin\Debug\net8.0\Proyecto.Application.pdb
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Application\bin\Debug\net8.0\Proyecto.Domain.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Application\bin\Debug\net8.0\Proyecto.Domain.pdb
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.sourcelink.json
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Application\obj\Debug\net8.0\Proyecto.6C2680D2.Up2Date
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Application\obj\Debug\net8.0\refint\Proyecto.Application.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Application\obj\Debug\net8.0\Proyecto.Application.pdb
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\Proyecto.Application\obj\Debug\net8.0\ref\Proyecto.Application.dll

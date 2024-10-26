@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Desktop\\PROYECTO PROGRAMACION 3 RECURSANTE\\ProgrammingProjectIII-Recursante\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB214A07-CA66-45D9-B154-CBD79A4BB12B}|Proyecto.Infrastructure\\Proyecto.Infraestructure.csproj|c:\\users\\usuario\\onedrive\\desktop\\proyecto programacion 3 recursante\\programmingprojectiii-recursante\\proyecto.infrastructure\\repositories\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB214A07-CA66-45D9-B154-CBD79A4BB12B}|Proyecto.Infrastructure\\Proyecto.Infraestructure.csproj|solutionrelative:proyecto.infrastructure\\repositories\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0397A5A3-547D-49A3-9ED2-561BDC866DD1}|Proyecto.Domain\\Proyecto.Domain.csproj|c:\\users\\usuario\\onedrive\\desktop\\proyecto programacion 3 recursante\\programmingprojectiii-recursante\\proyecto.domain\\repositories\\icommercialinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0397A5A3-547D-49A3-9ED2-561BDC866DD1}|Proyecto.Domain\\Proyecto.Domain.csproj|solutionrelative:proyecto.domain\\repositories\\icommercialinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02A2D6F-4DED-43A2-A96B-DDA5E3B14068}|Proyecto.Application\\Proyecto.Application.csproj|c:\\users\\usuario\\onedrive\\desktop\\proyecto programacion 3 recursante\\programmingprojectiii-recursante\\proyecto.application\\services\\commercialinvoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02A2D6F-4DED-43A2-A96B-DDA5E3B14068}|Proyecto.Application\\Proyecto.Application.csproj|solutionrelative:proyecto.application\\services\\commercialinvoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02A2D6F-4DED-43A2-A96B-DDA5E3B14068}|Proyecto.Application\\Proyecto.Application.csproj|c:\\users\\usuario\\onedrive\\desktop\\proyecto programacion 3 recursante\\programmingprojectiii-recursante\\proyecto.application\\iservices\\ishoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02A2D6F-4DED-43A2-A96B-DDA5E3B14068}|Proyecto.Application\\Proyecto.Application.csproj|solutionrelative:proyecto.application\\iservices\\ishoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0397A5A3-547D-49A3-9ED2-561BDC866DD1}|Proyecto.Domain\\Proyecto.Domain.csproj|c:\\users\\usuario\\onedrive\\desktop\\proyecto programacion 3 recursante\\programmingprojectiii-recursante\\proyecto.domain\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0397A5A3-547D-49A3-9ED2-561BDC866DD1}|Proyecto.Domain\\Proyecto.Domain.csproj|solutionrelative:proyecto.domain\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02A2D6F-4DED-43A2-A96B-DDA5E3B14068}|Proyecto.Application\\Proyecto.Application.csproj|c:\\users\\usuario\\onedrive\\desktop\\proyecto programacion 3 recursante\\programmingprojectiii-recursante\\proyecto.application\\iservices\\icommercialinvoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02A2D6F-4DED-43A2-A96B-DDA5E3B14068}|Proyecto.Application\\Proyecto.Application.csproj|solutionrelative:proyecto.application\\iservices\\icommercialinvoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0397A5A3-547D-49A3-9ED2-561BDC866DD1}|Proyecto.Domain\\Proyecto.Domain.csproj|c:\\users\\usuario\\onedrive\\desktop\\proyecto programacion 3 recursante\\programmingprojectiii-recursante\\proyecto.domain\\models\\commercialinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0397A5A3-547D-49A3-9ED2-561BDC866DD1}|Proyecto.Domain\\Proyecto.Domain.csproj|solutionrelative:proyecto.domain\\models\\commercialinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0397A5A3-547D-49A3-9ED2-561BDC866DD1}|Proyecto.Domain\\Proyecto.Domain.csproj|c:\\users\\usuario\\onedrive\\desktop\\proyecto programacion 3 recursante\\programmingprojectiii-recursante\\proyecto.domain\\repositories\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0397A5A3-547D-49A3-9ED2-561BDC866DD1}|Proyecto.Domain\\Proyecto.Domain.csproj|solutionrelative:proyecto.domain\\repositories\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02A2D6F-4DED-43A2-A96B-DDA5E3B14068}|Proyecto.Application\\Proyecto.Application.csproj|c:\\users\\usuario\\onedrive\\desktop\\proyecto programacion 3 recursante\\programmingprojectiii-recursante\\proyecto.application\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02A2D6F-4DED-43A2-A96B-DDA5E3B14068}|Proyecto.Application\\Proyecto.Application.csproj|solutionrelative:proyecto.application\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02A2D6F-4DED-43A2-A96B-DDA5E3B14068}|Proyecto.Application\\Proyecto.Application.csproj|c:\\users\\usuario\\onedrive\\desktop\\proyecto programacion 3 recursante\\programmingprojectiii-recursante\\proyecto.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02A2D6F-4DED-43A2-A96B-DDA5E3B14068}|Proyecto.Application\\Proyecto.Application.csproj|solutionrelative:proyecto.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB214A07-CA66-45D9-B154-CBD79A4BB12B}|Proyecto.Infrastructure\\Proyecto.Infraestructure.csproj|c:\\users\\usuario\\onedrive\\desktop\\proyecto programacion 3 recursante\\programmingprojectiii-recursante\\proyecto.infrastructure\\context\\proyectodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB214A07-CA66-45D9-B154-CBD79A4BB12B}|Proyecto.Infrastructure\\Proyecto.Infraestructure.csproj|solutionrelative:proyecto.infrastructure\\context\\proyectodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\PROYECTO PROGRAMACION 3 RECURSANTE\\ProgrammingProjectIII-Recursante\\Proyecto.Infrastructure\\Repositories\\ShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "Proyecto.Infrastructure\\Repositories\\ShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\PROYECTO PROGRAMACION 3 RECURSANTE\\ProgrammingProjectIII-Recursante\\Proyecto.Infrastructure\\Repositories\\ShoppingCartRepository.cs",
+              "RelativeToolTip": "Proyecto.Infrastructure\\Repositories\\ShoppingCartRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:55:35.757Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommercialInvoiceService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\PROYECTO PROGRAMACION 3 RECURSANTE\\ProgrammingProjectIII-Recursante\\Proyecto.Application\\Services\\CommercialInvoiceService.cs",
+              "RelativeDocumentMoniker": "Proyecto.Application\\Services\\CommercialInvoiceService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\PROYECTO PROGRAMACION 3 RECURSANTE\\ProgrammingProjectIII-Recursante\\Proyecto.Application\\Services\\CommercialInvoiceService.cs",
+              "RelativeToolTip": "Proyecto.Application\\Services\\CommercialInvoiceService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T01:16:40.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\PROYECTO PROGRAMACION 3 RECURSANTE\\ProgrammingProjectIII-Recursante\\Proyecto.Application\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "Proyecto.Application\\Services\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\PROYECTO PROGRAMACION 3 RECURSANTE\\ProgrammingProjectIII-Recursante\\Proyecto.Application\\Services\\ProductoService.cs",
+              "RelativeToolTip": "Proyecto.Application\\Services\\ProductoService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:28:30.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICommercialInvoiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\PROYECTO PROGRAMACION 3 RECURSANTE\\ProgrammingProjectIII-Recursante\\Proyecto.Domain\\Repositories\\ICommercialInvoiceRepository.cs",
+              "RelativeDocumentMoniker": "Proyecto.Domain\\Repositories\\ICommercialInvoiceRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\PROYECTO PROGRAMACION 3 RECURSANTE\\ProgrammingProjectIII-Recursante\\Proyecto.Domain\\Repositories\\ICommercialInvoiceRepository.cs",
+              "RelativeToolTip": "Proyecto.Domain\\Repositories\\ICommercialInvoiceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T01:02:03.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICommercialInvoiceService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\PROYECTO PROGRAMACION 3 RECURSANTE\\ProgrammingProjectIII-Recursante\\Proyecto.Application\\IServices\\ICommercialInvoiceService.cs",
+              "RelativeDocumentMoniker": "Proyecto.Application\\IServices\\ICommercialInvoiceService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\PROYECTO PROGRAMACION 3 RECURSANTE\\ProgrammingProjectIII-Recursante\\Proyecto.Application\\IServices\\ICommercialInvoiceService.cs",
+              "RelativeToolTip": "Proyecto.Application\\IServices\\ICommercialInvoiceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T01:15:27.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IShoppingCartService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\PROYECTO PROGRAMACION 3 RECURSANTE\\ProgrammingProjectIII-Recursante\\Proyecto.Application\\IServices\\IShoppingCartService.cs",
+              "RelativeDocumentMoniker": "Proyecto.Application\\IServices\\IShoppingCartService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\PROYECTO PROGRAMACION 3 RECURSANTE\\ProgrammingProjectIII-Recursante\\Proyecto.Application\\IServices\\IShoppingCartService.cs",
+              "RelativeToolTip": "Proyecto.Application\\IServices\\IShoppingCartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T00:23:05.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\PROYECTO PROGRAMACION 3 RECURSANTE\\ProgrammingProjectIII-Recursante\\Proyecto.Domain\\Repositories\\IShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "Proyecto.Domain\\Repositories\\IShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\PROYECTO PROGRAMACION 3 RECURSANTE\\ProgrammingProjectIII-Recursante\\Proyecto.Domain\\Repositories\\IShoppingCartRepository.cs",
+              "RelativeToolTip": "Proyecto.Domain\\Repositories\\IShoppingCartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:38:37.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommercialInvoice.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\PROYECTO PROGRAMACION 3 RECURSANTE\\ProgrammingProjectIII-Recursante\\Proyecto.Domain\\Models\\CommercialInvoice.cs",
+              "RelativeDocumentMoniker": "Proyecto.Domain\\Models\\CommercialInvoice.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\PROYECTO PROGRAMACION 3 RECURSANTE\\ProgrammingProjectIII-Recursante\\Proyecto.Domain\\Models\\CommercialInvoice.cs",
+              "RelativeToolTip": "Proyecto.Domain\\Models\\CommercialInvoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T23:36:02.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\PROYECTO PROGRAMACION 3 RECURSANTE\\ProgrammingProjectIII-Recursante\\Proyecto.Domain\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Proyecto.Domain\\Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\PROYECTO PROGRAMACION 3 RECURSANTE\\ProgrammingProjectIII-Recursante\\Proyecto.Domain\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "Proyecto.Domain\\Models\\ShoppingCart.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAxwBUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:34:37.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProyectoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\PROYECTO PROGRAMACION 3 RECURSANTE\\ProgrammingProjectIII-Recursante\\Proyecto.Infrastructure\\Context\\ProyectoDbContext.cs",
+              "RelativeDocumentMoniker": "Proyecto.Infrastructure\\Context\\ProyectoDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\PROYECTO PROGRAMACION 3 RECURSANTE\\ProgrammingProjectIII-Recursante\\Proyecto.Infrastructure\\Context\\ProyectoDbContext.cs",
+              "RelativeToolTip": "Proyecto.Infrastructure\\Context\\ProyectoDbContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:35:07.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\PROYECTO PROGRAMACION 3 RECURSANTE\\ProgrammingProjectIII-Recursante\\Proyecto.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Proyecto.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\PROYECTO PROGRAMACION 3 RECURSANTE\\ProgrammingProjectIII-Recursante\\Proyecto.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "Proyecto.Application\\Services\\UserService.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAiwHUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:21:07.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 193,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

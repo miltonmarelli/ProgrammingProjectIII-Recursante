@@ -1,0 +1,804 @@
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\ProyectoProgIII.exe
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\ProyectoProgIII.deps.json
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\ProyectoProgIII.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\ProyectoProgIII.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\ProyectoProgIII.pdb
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Application.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Domain.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Infraestructure.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Application.pdb
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Domain.pdb
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Infraestructure.pdb
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoProgIII.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoProgIII.props
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoProgIII.props
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoProgIII.props
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\obj\Debug\net8.0\scopedcss\bundle\ProyectoProgIII.styles.css
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\obj\Debug\net8.0\Proyecto.E21B9B83.Up2Date
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\obj\Debug\net8.0\refint\ProyectoProgIII.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.pdb
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgIII\ProyectoProgIII\obj\Debug\net8.0\ref\ProyectoProgIII.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\appsettings.json
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ProyectoProgIII.exe
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ProyectoProgIII.deps.json
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ProyectoProgIII.runtimeconfig.json
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ProyectoProgIII.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ProyectoProgIII.pdb
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Humanizer.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Application.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Domain.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Infraestructure.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Application.pdb
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Domain.pdb
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Infraestructure.pdb
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.csproj.AssemblyReference.cache
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.AssemblyInfoInputs.cache
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.AssemblyInfo.cs
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.csproj.CoreCompileInputs.cache
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.sourcelink.json
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoProgIII.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoProgIII.props
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoProgIII.props
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoProgIII.props
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\scopedcss\bundle\ProyectoProgIII.styles.css
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\Proyecto.E21B9B83.Up2Date
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\refint\ProyectoProgIII.dll
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.pdb
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.genruntimeconfig.cache
+C:\Users\luigi\Source\Repos\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ref\ProyectoProgIII.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ProyectoProgIII.exe
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ProyectoProgIII.deps.json
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ProyectoProgIII.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ProyectoProgIII.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ProyectoProgIII.pdb
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Application.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Domain.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Infraestructure.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Application.pdb
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Domain.pdb
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Infraestructure.pdb
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.sourcelink.json
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoProgIII.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoProgIII.props
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoProgIII.props
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoProgIII.props
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\scopedcss\bundle\ProyectoProgIII.styles.css
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\Proyecto.E21B9B83.Up2Date
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\refint\ProyectoProgIII.dll
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.pdb
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Desktop\ProyectoProgramacionIII\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ref\ProyectoProgIII.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ProyectoProgIII.exe
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ProyectoProgIII.deps.json
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ProyectoProgIII.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ProyectoProgIII.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ProyectoProgIII.pdb
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Application.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Domain.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Infraestructure.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Application.pdb
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Domain.pdb
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Infraestructure.pdb
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.sourcelink.json
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoProgIII.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoProgIII.props
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoProgIII.props
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoProgIII.props
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\scopedcss\bundle\ProyectoProgIII.styles.css
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\Proyecto.E21B9B83.Up2Date
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\refint\ProyectoProgIII.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.pdb
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Programacion III - Repo\ProyectoProgramacion3\ProyectoProgIII\obj\Debug\net8.0\ref\ProyectoProgIII.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\ProyectoProgIII.exe
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\ProyectoProgIII.deps.json
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\ProyectoProgIII.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\ProyectoProgIII.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\ProyectoProgIII.pdb
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Application.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Domain.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Infraestructure.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Application.pdb
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Domain.pdb
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\bin\Debug\net8.0\Proyecto.Infraestructure.pdb
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.sourcelink.json
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoProgIII.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoProgIII.props
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoProgIII.props
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoProgIII.props
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\obj\Debug\net8.0\scopedcss\bundle\ProyectoProgIII.styles.css
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\obj\Debug\net8.0\Proyecto.E21B9B83.Up2Date
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\obj\Debug\net8.0\refint\ProyectoProgIII.dll
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.pdb
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\obj\Debug\net8.0\ProyectoProgIII.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Desktop\PROYECTO PROGRAMACION 3 RECURSANTE\ProgrammingProjectIII-Recursante\ProyectoProgIII\obj\Debug\net8.0\ref\ProyectoProgIII.dll
